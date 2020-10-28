@@ -127,8 +127,7 @@ body{
     border-radius: 8px;
 }
 .temp{
-    color: rgb(24, 23, 22);
-    background: rgb(241, 115, 84);
+    background: red;
     border-radius: 8px;
 }
 @media screen and (max-width:780px)
